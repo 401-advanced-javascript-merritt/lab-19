@@ -1,0 +1,19 @@
+{
+  "name": "events-lab",
+  "version": "1.0.0",
+  "description": "Events Lab 19",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^23.6.0",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  }
+}
