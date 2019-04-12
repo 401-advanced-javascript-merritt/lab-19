@@ -6,9 +6,9 @@
 ### Links and Resources
 
 * [File Module]()
-* [Logger Module]()
-* [Server Module]()
-* [API Server Module]()
+* [Logger Module](https://github.com/401-advanced-javascript-merritt/lab-19-2/pull/1)
+* [Server Module](https://github.com/401-advanced-javascript-merritt/lab-19-3/pull/1)
+* [API Server Module](https://github.com/401-advanced-javascript-merritt/lab-19-4/pull/1)
 
 [![Build Status](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-19.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-19)
 
@@ -60,6 +60,3 @@
 * `npm app.js files/test.txt`
 * `nodemon logger.js`
 * `nodemon server.js`
-
-#### UML
-![UML](./lab18.jpg)
